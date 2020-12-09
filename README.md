@@ -1,4 +1,4 @@
-# Sleep-quality-tracker
+# Sleep quality tracker
 
 The SleepQualityTracker app is a demo app that helps you collect information about your sleep.
 
