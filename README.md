@@ -24,3 +24,7 @@ It also uses and builds on the following techniques from previous projects:
 It was implemented within the Developing Android Apps with Kotlin on Udacity, the code is based on this repository:
 
 > https://github.com/udacity/andfun-kotlin-sleep-tracker/tree/starter-code
+
+## Screenshot
+
+![](https://drive.google.com/uc?export=view&id=18j_hOak-XnX-zFPHfcSXJzTnF7kgek2x)
